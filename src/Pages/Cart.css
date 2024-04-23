@@ -1,0 +1,52 @@
+h3{
+  font-size: 30px;
+  text-align: center;
+  color: #8f8f8f;
+  margin: 20px;
+}
+h4{
+  font-size: 18px;
+  margin-top: 5px;
+}
+.cart-wrap {
+  margin-top: 10px;
+
+}
+
+.cart-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 80px;
+  list-style: none;
+}
+
+.cart-item img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+
+.cart-item button {
+  margin-left: 5px;
+  background-color: teal;
+  color: white;
+  padding: 5px 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.cart-item button:hover {
+  background-color: teal;
+}
+.shivi1{
+  margin-top: 10px;
+  height: 30px;
+  width: 60px;
+}
+.shivi{
+  margin-top: 10px;
+  height: 30px;
+  width: 60px;
+  margin-bottom: 10px;
+}

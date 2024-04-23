@@ -1,0 +1,21 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    margin: 0;
+    height: 40px;
+  } 
+  .header li{
+    list-style: none;
+    font-size: large;
+     margin-top: 10px; 
+    margin: 10px 10px;
+  }
+  .header a{
+    color: white;
+    text-decoration: none;
+  }
+
+.item3{
+margin-left: 100px;
+  }
